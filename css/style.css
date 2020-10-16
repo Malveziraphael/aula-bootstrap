@@ -1,0 +1,18 @@
+.navbar{
+    background: linear-gradient(329.54deg, #A3E4D7 20%, #85C1E9 80% );
+    /*border: 1px solid #A3E4D7*/;
+}
+
+body{
+     background: linear-gradient(329.54deg,#85C1E9 20%, #A3E4D7 80% )
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fototime{
+    border: 2px solid black;
+    border-radius: 50%;
+}
